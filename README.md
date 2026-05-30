@@ -1,13 +1,19 @@
-# Premium Resources
+# Premium Organization
 
-This repository is part of the premium supporter program.
+Welcome.
 
-Premium supporters gain access to private resources, exclusive repositories, personal notes, scripts, templates, and additional content that is not publicly available.
+All repositories within this organization are private and available exclusively to premium supporters.
 
-## Become a Premium Supporter
+The organization hosts resources such as personal notes, tooling, scripts, templates, lab material, write-ups, and other content that is not published in the public repositories.
 
-To learn more about the available tiers and benefits, visit:
+## Interested in Access?
+
+Information about supporter tiers, benefits, and membership is available at:
 
 https://strikoder.com/coffee
 
-Thank you for supporting the project and helping create more offensive security content, resources, and community initiatives.
+## Support the Project
+
+Your support helps fund the development of new content, tools, research, labs, and community initiatives.
+
+Thank you for being part of the journey.
